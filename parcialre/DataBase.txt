@@ -1,0 +1,13 @@
+CREATE DATABASE Final
+
+use final
+
+CREATE TABLE users(
+    user_id bigint auto_increment,
+    nombre varChar(150) NOT NULL,
+    email varChar(150) NOT NULL,
+    password varChar(150) NOT NULL,
+    active boolean not null default 1,
+    CONSTRAINT pk_user_id PRIMARY KEY (user_id),
+    CONSTRAINT unq_email UNIQUE (email)
+);
