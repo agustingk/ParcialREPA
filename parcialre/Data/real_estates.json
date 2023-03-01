@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "user": "agus@gmail.com",
+        "title": "Mansion Lujosa",
+        "description": "Grande",
+        "bedrooms": "2",
+        "parking": "0",
+        "price": "9000",
+        "city": "MDQ"
+    },
+    {
+        "id": 2,
+        "user": "agus@gmail.com",
+        "title": "123",
+        "description": "123",
+        "bedrooms": "5",
+        "parking": "No",
+        "price": "123",
+        "city": "123"
+    },
+    {
+        "id": 3,
+        "user": "agus@gmail.com",
+        "title": "asd",
+        "description": "asd",
+        "bedrooms": "2",
+        "parking": "Yes",
+        "price": "123",
+        "city": "123"
+    },
+    {
+        "id": 4,
+        "user": "agus@gmail.com",
+        "title": "asf",
+        "description": "asf",
+        "bedrooms": "23",
+        "parking": "0",
+        "price": "100",
+        "city": "MDQ"
+    },
+    {
+        "id": 5,
+        "user": "agus@gmail.com",
+        "title": "1234",
+        "description": "214",
+        "bedrooms": "2",
+        "parking": "0",
+        "price": "1000",
+        "city": "MDQ"
+    },
+    {
+        "id": 6,
+        "user": "agus@gmail.com",
+        "title": "asd",
+        "description": "asd",
+        "bedrooms": "2",
+        "parking": "0",
+        "price": "1",
+        "city": "1"
+    }
+]
