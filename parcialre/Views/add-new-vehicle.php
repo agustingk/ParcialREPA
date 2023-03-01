@@ -14,34 +14,33 @@
 
                 <div class="form-group">
                     <label for="">Título</label>
-                    <input type="text" class="form-control form-control-lg" name="title">
+                    <input type="text" class="form-control form-control-lg" name="title" required>
                 </div>
 
                 <div class="form-group">
                     <label for="">Descripción</label>
-                    <input type="text" class="form-control form-control-lg" name="description">
-                    <textarea class="form-control form-control-lg"></textarea>
+                    <input type="text" class="form-control form-control-lg" name="description" required>
                 </div>
 
                 <div class="row">
                     <div class="col-lg-4">
                         <div class="form-group">
                             <label for="">Año</label>
-                            <input type="number" class="form-control form-control-lg" min="1800" max="2022" name="year">
+                            <input type="number" class="form-control form-control-lg" min="1800" max="2022" name="year" required>
                         </div>
                     </div>
 
                     <div class="col-lg-4">
                         <div class="form-group">
                             <label for="">Precio</label>
-                            <input type="text" class="form-control form-control-lg" name="price">
+                            <input type="text" class="form-control form-control-lg" name="price" required>
                         </div>
                     </div>
 
                     <div class="col-lg-4">
                         <div class="form-group">
                             <label for="">Ciudad</label>
-                            <input type="text" class="form-control form-control-lg" name="city">
+                            <input type="text" class="form-control form-control-lg" name="city" required>
                         </div>
                     </div>
                     
